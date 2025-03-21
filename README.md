@@ -1,5 +1,3 @@
-<img src="https://your-banner-image-url.com" alt="Data Analyst Ingrid Ortega" width="100%">
-
 - 👋 Hi, I’m @inorja12 (Ingrid Ortega)
 - 👀 I’m interested in **data analytics, business intelligence, and data-driven decision-making.** 
 - 🌱 I’m currently learning **Python, SQL, data visualization, and statistical analysis at TripleTen Bootcamp.**
